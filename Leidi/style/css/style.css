@@ -1,0 +1,19 @@
+.col-sem-margem {
+  padding-right: 7.5px;
+  padding-left: 7.5px;
+  padding-bottom: 7.5px;
+}
+
+.col-sem-margem-esquerda {
+  padding-right: 0;
+}
+
+.col-sem-margem-direita {
+  padding-left: 0;
+}
+
+.menu {
+  font-size: 1.7em;
+}
+
+/*# sourceMappingURL=style.css.map */
